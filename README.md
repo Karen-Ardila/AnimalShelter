@@ -1,3 +1,5 @@
+This is a full stack CRUD application that simulates an animal shelter. Where the user can create a database of animals, and update as needed. Deployed to AWS EC2 link here: http://3.131.38.162/
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
